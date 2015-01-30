@@ -4,7 +4,7 @@
 
 ##Module 2 Exercise 1 Results
 
-#####[Canadian War Graves Commission](http://www.cwgc.org/)
+#####[Commonwealth War Graves Commission](http://www.cwgc.org/)
 
 For my initial search, I simply searched my surname, and Canada, and received 19 results, which can be seen [here](http://www.cwgc.org/find-war-dead.aspx?cpage=1) .
 I have uploaded the data spreadsheet via github and it now resides [here](https://github.com/Xtina-R/Exercise-Notebook/blob/master/Casualty%20Search%20CWGC.csv). 
