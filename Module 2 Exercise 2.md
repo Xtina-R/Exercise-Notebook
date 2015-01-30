@@ -1,6 +1,6 @@
 ###Module 2 Exercise 3: Outwit Hub and [Suda Online](http://www.stoa.org/sol/)
 
-I had some trouble with this exercise initially, and had to futz around with the softwhere quite a bit.  All in all it probably took me close to a couple of hours to do this exercise. The data spreadsheet with the scraped results can be found [here](https://github.com/Xtina-R/Exercise-Notebook/blob/master/OutWit%20Scraped%20Export.csv).
+I had some trouble with this exercise initially, and had to futz around with the software quite a bit.  All in all it probably took me close to a couple of hours to do this exercise. The data spreadsheet with the scraped results can be found [here](https://github.com/Xtina-R/Exercise-Notebook/blob/master/OutWit%20Scraped%20Export.csv).
 
 Maybe I'm missing something, but I can't see any other types of data--beyond the source URL and the translation--included with the .csv export.
 
