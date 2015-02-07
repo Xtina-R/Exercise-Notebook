@@ -1,0 +1,6 @@
+#Module 3 Exercise 1: TEI
+
+I managed to encode and transform the xml file to have it appear as an encoded html file in a browser.  However, I'm still having problems with the placekey.  When I validate it, it's no longer showing any errors or parsing, but once I transform it from .xml to .html, the urls and encoding do not appear for place names. I'm not sure what the problem is, as my interp key shows up clearly.  I did have some problems with the URLS for geohack, which Dr. Graham helped me with, but despite removing the problematic characters, the coding is still not showing once the file is transformed.
+I'm also having some problems with style tokens--for some reason, I cannot get the colour green anymore, which is what we are supposed to use for placekey, even after clearing all style tokens and trying each separate token multiple times...
+
+The .xsl and .xml files for this exercise can be found [here](https://github.com/Xtina-R/Exercise-Notebook/tree/master/Module%203%20Exercise%201).
