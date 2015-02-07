@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="000style.xsl"?>
+<teiCorpus>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digitised and Encoded copy of Negro Slavery by Zachary MacAulay</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Transcribed from digital copy available from Recovered Histories at
+                    http://www.recoveredhistories.org/pamphlet1.php?page=1&amp;orderby=MaxID&amp;catid=66</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Negro Slavery; or, A View of Some of the More Prominent Features of
+                            that State of Society, as it Exists in the United States of America and
+                            in the Colonies of the West Indies, Especially in Jamaica</title>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Printed for Hatchard and Son, Piccadilly, and J. and A. Arch,
+                            Cornhill</publisher>
+                        <distributor>Sold Also by W. Graphel, Church street, and G. and J. Robison,
+                            Castle Street, Liverpool.</distributor>
+                        <date when="1823">1823</date>
+                        <pubPlace>
+                            <settlement>London</settlement>
+                        </pubPlace>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title/>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Transcribed by a student of Digital History at Sheffield Hallam
+                        University</authority>
+                </publicationStmt>
+                <sourceDesc>
+                    <bibl>
+                        <biblScope>1</biblScope>
+                    </bibl>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+             <p>"I must, however, do this justice to the slave-master of <place key= "Virginia, United States of America" ref="http://tools.wmflabs.org/geohack/geohack.php?params=37_33_13_N_77_27_38_W">Virginia</place> it was not from him that I ever heard a defence of slavery; some extenuation, on the score of expediency or necessity, is the utmost range now taken by that description of reasoners who, in former times, would have attempted to support the principle as well as the practice. </p>
+<p>"Perhaps it is in its depraving influence on the moral sense of both slave and master, that <interp key="That slavery is/was deplorable is a well-documented fact in both the historical and current social record." n="http://www.un.org/en/events/slaveryremembranceday/" cert="high" ref="http://www.unesco.org/new/en/culture/themes/dialogue/the-slave-route/modern-forms-of-slavery/">slavery is most deplorable</interp>.  Brutal cruelty, we may hope, is a rare and transient mischief; but the degradation of soul is universal. </p>
+<p> <interp key="This argument was absolutely true; slavery, whether historical or modern, depends upon either a legal system so unjust that it allows for the enslavement of human beings, or in the case of many current societies, in which slavery is not legal but still exists, it depends upon a high amount of corruption and dishonesty in public officals and law enforcement." n="Villa, Monique. Money, Corruption and Slavery. The World Post. 10/18/2012." cert="high" ref="http://www.huffingtonpost.com/monique-villa/the-most-profitable-commo_b_1974075.html">"All America is now suffering in morals, through the baneful influence of Negro slavery, partially tolerated, corrupting justice at the very source."</interp> </p>
+<p>"Slavery," he says in another place, "that broadest, foulest blot which still prevails over so large a portion of the <place key="United States of America" ref="http://tools.wmflabs.org/geohack/geohack.php?params=38_53_42_N_77_02_10_W">United States</place>, will circumscribe my choice within narrow limits; for it political liberty be so precious, that to obtain it I can forego the well-earned comforts of an English home, it must not be to degrade and corrupt my children by the practice of slave-keeping.  This curse has taken fast hold of <place key="Kentucky, United States" ref="http://tools.wmflabs.org/geohack/geohack.php?params=38_01_47_N_84_29_41_W">Kentucky</place>, <place key="Tennessee, United States" ref="http://tools.wmflabs.org/geohack/geohack.php?params=30_10_00_N_84_47_00_W">Tennessee</place>, and all the new states to the South." </p>
+<p>Such is the delineation of Negro slavery, as it exists in the <place key="United States of America" ref="http://tools.wmflabs.org/geohack/geohack.php?params=38_53_42_N_77_02_10_W">United States</place>, which has been given by three independent and impartial eye-witnesses.  A writer in a contemporary Review, not remarkable for partiality to British in preference to trans-Atlantic policy, on contemplating the picture, expresses his keen indignation in terms which do him the highest honour.  "The great curse of <place key="United States of America" ref="http://tools.wmflabs.org/geohack/geohack.php?params=38_53_42_N_77_02_10_W">America</place>," he observes, "is the institution of slavery, of itself far more than the foulest blot upon their national character, and an evil which counter-balances all the excisemen, licensers, and tax-gatherers of <place key="England" ref="http://tools.wmflabs.org/geohack/geohack.php?&params=51_30_26_N_07_38_W">England</place>. No virtuous man ought to trust his own character, or the character of his children, to the demo</p>   
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>
