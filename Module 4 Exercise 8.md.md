@@ -7,7 +7,7 @@ Trying to use it as a layer in Palladio didn't worked out so well.  I've followe
 
 #CartoDB Exercise
 
-This is the URL to my cartoDB map, following the instructions in the turtorial.  It was very straight-forward.  This map shows the data by 'intensity'. 
+This is the URL to my cartoDB map, following the instructions in the tutorial.  It was very straight-forward.  This map shows the data by 'intensity'. 
 
 https://tweetina.cartodb.com/viz/88f852d2-c5f3-11e4-a5b9-0e018d66dc29/map
 
