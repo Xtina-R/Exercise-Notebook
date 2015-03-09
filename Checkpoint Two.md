@@ -21,7 +21,7 @@ Secondly, I've considered the possibility of something more interactive--somethi
 
 These are my thoughts--I am really concerned that it's taken me this long to figure out what I want to do, but I think this is still a doable project, and I could really use some help with figuring out an appropriate format and picking a tool to help present my data in a satisfying way.
 
-
+UPDATE:  I've messed around with Prezi a little today and have something that is getting a bit closer to what I'd like, although extremely early in development. You can look at it [here](http://prezi.com/fhlr-uhv6aqi/?utm_campaign=share&utm_medium=copy&rc=ex0share).
 
 
 
